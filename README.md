@@ -1,5 +1,7 @@
 # Portfolio Template
 
+## Current Status: [![Portfolio Pipeline](https://github.com/jarfrey/jarfrey-portfolio/actions/workflows/pipeline.yml/badge.svg)](https://github.com/jarfrey/jarfrey-portfolio/actions/workflows/pipeline.yml)
+
 A starter repo for building and validating a personal portfolio webpage.
 
 <!-- Optional (extension B): add your workflow status badge here -->
